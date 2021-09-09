@@ -1,0 +1,27 @@
+.row {
+  height: 100%;
+  /* padding: 2px; */
+}
+
+.design {
+  /* padding: 50px 30px; */
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 0 29px 0 rgba(18, 66, 101, 0.08);
+  transition: all 0.3s ease-in-out;
+  /* border-radius: 8px; */
+  z-index: 1;
+}
+
+.design:hover {
+  -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  transform: scale(1.08);
+  cursor: pointer;
+}
+
+.card-title {
+  color: #124265;
+}

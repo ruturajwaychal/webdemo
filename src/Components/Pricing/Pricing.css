@@ -1,0 +1,17 @@
+.text-div {
+  font-weight: 400;
+  color: dimgray;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.head-div {
+  margin-top: 80px;
+  color: #003366;
+  font-weight: 700;
+}
+
+.prices {
+  margin-left: 60px;
+  margin-right: 60px;
+}

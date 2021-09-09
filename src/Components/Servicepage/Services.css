@@ -1,0 +1,46 @@
+.serices {
+  color: dimgrey;
+  font-weight: 400;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.service-heading {
+  color: #124265;
+  text-align: center;
+}
+
+.service-heading {
+  margin-top: 100px;
+}
+
+.container-main {
+  background-color: #e6f2ff;
+}
+
+.lorem-div {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 0;
+}
+
+.serices {
+  margin-bottom: 25px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.card-body {
+  padding: 80px;
+  align-items: center;
+  justify-content: center;
+}
+
+.action {
+  justify-content: center;
+  margin-top: 80px;
+  background-color: #2487ce;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  color: white;
+}

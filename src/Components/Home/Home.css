@@ -1,0 +1,20 @@
+.container {
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.heading {
+  font-size: 58px;
+  font-weight: 800;
+  color: #124265;
+}
+
+.title {
+  color: gray;
+  font-weight: 100;
+}
+
+.body {
+  background-image: "hero-bg.jpg";
+}
